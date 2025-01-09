@@ -9,7 +9,13 @@ fn test_greetings() {
 }
 
 #[test]
-fn test_greetings() {
-    let nama = "nibras";
+fn test_hihihiha() {
+    let name = "Shandikadav";
     println!("hello {}", name);
+}
+
+#[test]
+fn test_greetings_nibras() {
+    let nama = "nibras";
+    println!("halo {}", nama);
 }
